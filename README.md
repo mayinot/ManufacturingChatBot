@@ -50,7 +50,9 @@ backend/
 │   ├── mcp\_server.py
 │   └── handlers.py
 └── requirements.txt
+```
 
+---
 
 ## 🛠️ Setup
 
