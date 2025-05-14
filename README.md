@@ -1,4 +1,3 @@
-```markdown
 # Manufacturing ChatBot and MCP Server
 
 This project is a manufacturing control center built using FastAPI, Gradio, and MCP (Model Context Protocol). It includes features like machine control, quality checks, inventory management, and real-time chat functions with OpenAI integration.
